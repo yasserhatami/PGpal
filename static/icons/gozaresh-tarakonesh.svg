@@ -1,0 +1,17 @@
+<svg id="gozaresh-tarakonesh" xmlns="http://www.w3.org/2000/svg" width="35.446" height="37.063" viewBox="0 0 35.446 37.063">
+  <g id="Group_2958" data-name="Group 2958" transform="translate(-3.142 3.965)">
+    <path id="Path_4747" data-name="Path 4747" d="M4,0H7.318" transform="translate(26.748 12.882)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-width="1.4"/>
+    <path id="Path_4746" data-name="Path 4746" d="M4,0H7.318" transform="translate(26.748 16.421)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-width="1.4"/>
+    <path id="Path_4745" data-name="Path 4745" d="M0,0H6.857" transform="translate(27.209 21.73)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-width="1.4"/>
+    <path id="Path_4748" data-name="Path 4748" d="M5,0H7.433" transform="translate(26.632 7.573)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-width="1.4"/>
+    <path id="Path_4733" data-name="Path 4733" d="M15.235,2.2,18.115,0l2.967,2.2L23.541.443V26.9" transform="translate(14.346 -0.156)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+    <path id="Path_4744" data-name="Path 4744" d="M21.787,18.143v2.193l-2.765-1.761-2.637,2.2-2.774-2.2-2.819,2.2-2.485-2.2-2.88,2.2-2.967-2.2L0,20.336V16" transform="translate(16.101 11.619)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+  </g>
+  <g id="next" transform="matrix(0.485, -0.875, 0.875, 0.485, 0, 18.967)">
+    <g id="Arrow_Right_Circle">
+      <path id="Path_4750" data-name="Path 4750" d="M10.843,0A10.843,10.843,0,1,0,21.687,10.843,10.843,10.843,0,0,0,10.843,0Zm0,20.331a9.488,9.488,0,1,1,9.488-9.488A9.488,9.488,0,0,1,10.843,20.331Z" fill="#3c3951"/>
+      <path id="Path_4751" data-name="Path 4751" d="M80.752,99.308l-3-3.044a.432.432,0,0,0-.615,0,.442.442,0,0,0,0,.621L79.4,99.179H72.617a.439.439,0,0,0,0,.878H79.4l-2.261,2.294a.442.442,0,0,0,0,.621.432.432,0,0,0,.615,0l3-3.044a.442.442,0,0,0,0-.621Z" transform="translate(-62.384 -91.205)" fill="#ae68bb" stroke="#ae68bb" stroke-width="0.5"/>
+      <path id="Path_4752" data-name="Path 4752" d="M80.712,99.293l-2.986-3.029a.43.43,0,0,0-.612,0,.44.44,0,0,0,0,.619l2.251,2.283h-6.75a.437.437,0,0,0,0,.874h6.749l-2.251,2.283a.44.44,0,0,0,0,.618.43.43,0,0,0,.612,0l2.986-3.029a.44.44,0,0,0,0-.619Z" transform="translate(84.164 112.752) rotate(180)" fill="#3c3951" stroke="#3c3951" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,85 @@
+$primary: #e4488a;
+$mid-primary: #c734e6;
+$cool-primary: #ae68bb;
+$light-primary: #cd81dd;
+$very-light-primary: #e8e2e9;
+$alpha-primary: #dabde0;
+$ultra-primary: #E8E2E9;
+$text-primary: #04044d;
+$secondary : #f4f6f9;
+$secondary-light : #D2EBED;
+$secondary-dark : #55ACB4;
+$success: #00BFA5;
+$cyan: #B8E7EB;
+$info: $cyan;
+$warning :#FFCA28;
+$danger :  #FF1770;
+$secondaryBtnBorder : #D6D6D6;
+$borders-color: #a4abbf;
+$light : #f4f6f9;
+$dark : #344767;
+$bg-color: #efefef;
+$tab-bg-color: #DBDFE5;
+$chip-color: #F1E6F4;
+$pink-chip: #F1E6F4;
+$blue-chip: #D2EBED;
+
+
+$white:    #ffffff ;
+$gray-100: #f8f9fa ;
+$gray-200: #e9ecef ;
+$gray-300: #dee2e6 ;
+$gray-400: #ced4da ;
+$gray-500: #adb5bd ;
+$gray-600: #6c757d ;
+$gray-700: #495057 ;
+$gray-800: #343a40 ;
+$gray-900: #212529 ;
+$black:    #000 ;
+
+
+$colors: ();
+// stylelint-disable-next-line scss/dollar-variable-default
+$colors: map-merge(
+    (
+      'primary': $primary,
+      'mid-primary': $mid-primary,
+      'cool-primary': $cool-primary,
+      'light-primary': $light-primary,
+      'secondary': $secondary,
+      'success': $success,
+      'info': $info,
+      'cyan':$cyan,
+      'warning': $warning,
+      'danger': $danger,
+      'light': $light,
+      'dark': $dark,
+      'bg-color': $bg-color,
+      'borders-color': $borders-color,
+    ),
+    $colors
+);
+
+
+// Font-sizes
+$font-size-base: 1rem;
+$font-size-lg: $font-size-base * 1.25 ;
+$font-size-sm: $font-size-base * .875 ;
+$font-weight-base: 400;
+$line-height-base: 1.5;
+
+//Text
+$text-color: $text-primary;
+
+//Overwrite
+$border-radius: 6px;
+
+//Shadows
+$primary-shadow: 7px 9px 8px rgba(60, 57, 72, 0.38);
+$light-shadow: 0 3px 6px rgba(164, 171, 191, 0.16);
+
+//nav
+$nav-tabs-link-active-bg:           transparent;
+$nav-tabs-link-active-border-color: transparent;
+$nav-pills-link-active-color:       $primary;
+$nav-pills-link-active-bg:          $alpha-primary;

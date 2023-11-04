@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Dana', serif;
+    background-color: $bg-color;
+    overflow-x: hidden;
+    height: 100vh;
+    color: $dark;
+    -webkit-overflow-scrolling: touch;
+}
+a:focus, a:hover, input:focus {
+  outline: none !important;
+  text-decoration: none;
+}
+.dir-rtl {
+  direction: rtl;
+}
+#__nuxt, #__layout, .h-100vh {
+  height: calc(var(--vh, 1vh) * 100);
+}
+.rounded {
+  border-radius: $border-radius !important;
+}
+.custom-control {
+  padding-right: 2rem;
+  padding-left: 0;
+}
+.btn-round {
+  border-radius: 21px;
+}
+.custom-control-input:focus ~ .custom-control-label::before {
+  box-shadow: 0 0 0 0.2rem rgba($primary, 0.2);
+}
+.btn:focus, .btn.focus {
+  box-shadow: 0 0 0 0.2rem rgba($primary, 0.2);
+}
+a.bg-primary:hover, a.bg-primary:focus, button.bg-primary:hover, button.bg-primary:focus {
+  background-color: $primary !important;
+}
+input.form-control, textarea.form-control {
+  font-size: 18px;
+  font-weight: 500;
+  border: 1px solid #e1e5e8;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: none;
+  width: 100%;
+  padding: 1rem 0.7rem;
+  direction:rtl;
+  transition: all .3s ease;
+  &::placeholder {
+    color: #aaa !important;
+    font-size: 0.75rem;
+  }
+  &::-webkit-input-placeholder{
+    color: #aaa !important;
+  }
+  &:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.1rem rgba($primary, 0.2);
+    background-color: transparent !important;
+    transition: all .3s ease;
+  }
+}
+select.custom-select {
+  transition: all .3s ease;
+  &::placeholder {
+    color: #aaa !important;
+    font-size: 0.75rem;
+  }
+  &::-webkit-input-placeholder{
+    color: #aaa !important;
+  }
+  &:focus {
+    transition: all .3s ease;
+    outline: none;
+    box-shadow: 0 0 0 0.1rem rgba($primary, 0.2);
+    background-color: transparent !important;
+  }
+}
+.webkit-unset {
+  -webkit-appearance: unset;
+}
+
+.row-price input.form-control::placeholder {
+  color: var(--light);
+}
+.btn-shadow {
+  box-shadow: 0 8px 30px -10px var(--info);
+  &:disabled {
+    box-shadow: none;
+  }
+}
+.btn:active {
+  transition: all 0.3s ease;
+  transform: translateY(5px) scale(0.98)
+}
+
+.card {
+  border-radius: 10px;
+}
+
+input[type=text], input[type=number], input[type=tel], textarea {
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
+  appearance: none !important;
+}
+
+.main-container {
+  z-index: 2;
+}
+
+.layout-enter-active, .layout-leave-active {
+  transition: opacity .12s ease-out;
+}
+.layout-enter, .layout-leave-active {
+  opacity: 0;
+}

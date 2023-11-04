@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="task-list-remove" transform="translate(0.5 0.495)">
+    <path id="Path_4573" data-name="Path 4573" d="M29.33,14.893V5.5H3.5V36.024l11.741,0" transform="translate(4.045 6.734)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_4574" data-name="Path 4574" d="M40.419,19.279V7.538A2.348,2.348,0,0,0,38.071,5.19H27.626a7.817,7.817,0,0,0-14.324,0H2.848A2.348,2.348,0,0,0,.5,7.538V47.457a2.348,2.348,0,0,0,2.348,2.348H21.634" transform="translate(0 0)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_343" data-name="Line 343" x2="12" transform="translate(14.5 19.505)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_344" data-name="Line 344" x2="12" transform="translate(14.5 26.505)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_345" data-name="Line 345" x2="7" transform="translate(14.5 33.505)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle id="Ellipse_153" data-name="Ellipse 153" cx="14" cy="14" r="14" transform="translate(26.5 26.505)" stroke-width="2" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <line id="Line_346" data-name="Line 346" x1="9.961" y2="9.961" transform="translate(35.439 35.432)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_347" data-name="Line 347" x1="9.961" y1="9.961" transform="translate(35.439 35.432)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

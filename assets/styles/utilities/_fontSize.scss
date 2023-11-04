@@ -1,0 +1,33 @@
+
+.fs-n2{
+  font-size: 0.6rem;
+}
+.fs-n1{
+  font-size: 0.65rem;
+}
+.fs-0{
+  font-size: 0.7rem;
+}
+.fs-1 {
+  font-size: 0.75rem;
+}
+.fs-2 {
+  font-size: 0.8rem;
+}
+.fs-3 {
+  font-size: 0.85rem;
+}
+.fs-4 {
+  font-size: 0.9rem;
+}
+.fs-5 {
+  font-size: 1rem;
+}
+.fs-6 {
+  font-size: 1.2rem;
+}
+@for $i from 8 through 24 {
+  .fs-#{$i} {
+    font-size: ($i/16) + rem !important;
+  }
+}

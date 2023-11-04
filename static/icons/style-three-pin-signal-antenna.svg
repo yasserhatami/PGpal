@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.016" height="20.108" viewBox="0 0 18.016 20.108">
+  <g id="style-three-pin-signal-antenna" transform="translate(0.5 0.707)">
+    <path id="Path_4549" data-name="Path 4549" d="M17.508,21.16,13.933,9.249a.709.709,0,0,0-1.358,0L9,21.16" transform="translate(-4.746 -2.382)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_4550" data-name="Path 4550" d="M9.662,13.692a5.672,5.672,0,0,1,0-8.021" transform="translate(-5.164 -3.666)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_4551" data-name="Path 4551" d="M14.828,5.671a5.672,5.672,0,0,1,0,8.021" transform="translate(-2.31 -3.666)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_4552" data-name="Path 4552" d="M8.491,16.288a8.508,8.508,0,0,1,0-12.031" transform="translate(-6 -4.257)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_4553" data-name="Path 4553" d="M16.243,4.257a8.508,8.508,0,0,1,0,12.031" transform="translate(-1.719 -4.257)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Line_323" data-name="Line 323" x2="4.251" transform="translate(6.383 11.688)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Line_324" data-name="Line 324" x2="6.803" transform="translate(5.106 15.942)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <circle id="Ellipse_150" data-name="Ellipse 150" cx="1.609" cy="1.609" r="1.609" transform="translate(7.008 3.767)" fill="#3c3951"/>
+  </g>
+</svg>

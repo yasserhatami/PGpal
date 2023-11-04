@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="24" viewBox="0 0 20 24">
+  <g id="phonebook-1" transform="translate(0.5 0.5)">
+    <path id="Path_4566" data-name="Path 4566" d="M13.5,19.4c-1.394-1.394-.9-2.481-.147-3.235l.487-.487a1.241,1.241,0,0,1,1.754,0l2.1,2.105a.724.724,0,0,1-.239,1.183A7.231,7.231,0,0,1,8.032,9.54.724.724,0,0,1,9.215,9.3l2.1,2.1a1.241,1.241,0,0,1,0,1.754l-.487.487c-.753.753-1.838,1.246-3.23-.142" transform="translate(-2.5 -0.5)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_4567" data-name="Path 4567" d="M21.5.5H4.5a2,2,0,0,0,0,4h16a1,1,0,0,1,1,1v17a1,1,0,0,1-1,1H4.5a2,2,0,0,1-2-2V2.5" transform="translate(-2.5 -0.5)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Line_330" data-name="Line 330" x2="16" transform="translate(2 2)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

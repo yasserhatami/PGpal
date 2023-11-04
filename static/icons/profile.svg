@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <style>
+            .cls-2{stroke:#02021d;fill:none;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="profile" transform="translate(-23 -94)">
+        <g id="Rectangle_141" fill="#fff" stroke="#02021d" opacity="0.747" transform="translate(23 94)">
+            <rect width="30" height="30" stroke="none" rx="9"/>
+            <rect width="29" height="29" x=".5" y=".5" fill="none" rx="8.5"/>
+        </g>
+        <g id="currency-user-exchange" transform="translate(22.5 99.94)">
+            <path id="Path_3751" d="M23 13.752a7.752 7.752 0 1 0-15.5 0z" class="cls-2" transform="translate(0 3.975)"/>
+            <circle id="Ellipse_25" cx="4.737" cy="4.737" r="4.737" class="cls-2" transform="translate(10.522 .5)"/>
+        </g>
+    </g>
+</svg>

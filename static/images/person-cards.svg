@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.4" height="22.352" viewBox="0 0 27.4 22.352">
+  <g id="person-cards" transform="translate(0.7 0.7)">
+    <path id="Path_4522" data-name="Path 4522" d="M7.366,16.578H3.275A2.729,2.729,0,0,1,.5,13.9V3.18A2.729,2.729,0,0,1,3.275.5H21.311a2.729,2.729,0,0,1,2.775,2.68V5.912" transform="translate(-0.5 -0.5)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+    <line id="Line_313" data-name="Line 313" x2="23.563" transform="translate(0 3.966)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+    <line id="Line_314" data-name="Line 314" x1="7.313" transform="translate(3.298 7.093)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+    <line id="Line_316" data-name="Line 316" x1="4.063" transform="translate(3.298 10.219)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+    <circle id="Ellipse_147" data-name="Ellipse 147" cx="6.906" cy="6.906" r="6.906" transform="translate(12.188 7.139)" stroke-width="1.4" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <g id="Group_2655" data-name="Group 2655" transform="translate(14.727 9.663)">
+      <g id="Group_2653" data-name="Group 2653" transform="translate(0 0)">
+        <path id="Shape" d="M8.685,10.809a3.154,3.154,0,1,1,3.185-3.154A3.173,3.173,0,0,1,8.685,10.809Zm0-5.257a2.1,2.1,0,1,0,2.123,2.1A2.115,2.115,0,0,0,8.685,5.551Z" transform="translate(-4.316 -4.5)" fill="#ae68bb" stroke="#ae68bb" stroke-width="0.2"/>
+        <path id="Path_4521" data-name="Path 4521" d="M4.909,13.8A5.05,5.05,0,0,1,9.4,11.965c3.192.146,4.389,1.835,4.389,1.835" transform="translate(-4.909 -4.249)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-width="1.4"/>
+      </g>
+    </g>
+  </g>
+</svg>

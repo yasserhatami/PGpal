@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="225" height="92.171" viewBox="0 0 225 92.171">
+  <g id="Catch_lightning" data-name="Catch lightning" transform="translate(-75 -224.828)">
+    <g id="Group_2715" data-name="Group 2715" transform="translate(29 -158.176)">
+      <g id="Group_2706" data-name="Group 2706" transform="translate(46.5 383.004)">
+        <path id="Subtraction_3" data-name="Subtraction 3" d="M41,84.621a58.7,58.7,0,0,1-3.95-11.774q-.436-1.975-.736-3.991h-33a3.319,3.319,0,0,1,0-6.637h39.93a3.318,3.318,0,0,0-.108-6.635H35.846v0H16.592a3.319,3.319,0,0,1,0-6.638H36.739a58.453,58.453,0,0,1,3.79-12.21,59.737,59.737,0,0,1,5.7-10.218,60.82,60.82,0,0,1,7.547-8.9A61.936,61.936,0,0,1,73.423,4.727,62.916,62.916,0,0,1,97.481,0,63.964,63.964,0,0,1,107.77.826h39.074a3.319,3.319,0,1,1,0,6.638H127.326l0,0h-7.863a3.318,3.318,0,0,0-.108,6.635h40.76a3.319,3.319,0,1,1,0,6.637H144.176l0,0H104.533a3.318,3.318,0,1,0,0,6.637H149.32a59.7,59.7,0,0,1,5.112,9.358,58.769,58.769,0,0,1-.473,47.885H41Z" transform="translate(17.837 0)" fill="rgba(234,171,247,0.29)"/>
+        <rect id="Rectangle_768" data-name="Rectangle 768" width="10" height="6" rx="3" transform="translate(177.5 1.171)" fill="rgba(234,171,247,0.29)"/>
+        <rect id="Rectangle_769" data-name="Rectangle 769" width="11" height="7" rx="3.5" transform="translate(188.5 9.171)" fill="rgba(234,171,247,0.63)"/>
+        <line id="Line_331" data-name="Line 331" x2="194.963" transform="translate(19.911 85.034)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_332" data-name="Line 332" x2="43.141" transform="translate(0 88.352)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_333" data-name="Line 333" x2="4.978" transform="translate(46.459 88.352)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_336" data-name="Line 336" x2="4.978" transform="translate(160.119 88.352)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_334" data-name="Line 334" x2="82.133" transform="translate(53.926 88.352)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_337" data-name="Line 337" x2="82.133" transform="translate(102.044 91.671)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_338" data-name="Line 338" x2="24.059" transform="translate(71.348 91.671)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_339" data-name="Line 339" x2="48.119" transform="translate(10.785 91.671)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_335" data-name="Line 335" x2="54.756" transform="translate(169.244 88.352)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_2797" data-name="Group 2797" transform="translate(7613 14724)">
+      <path id="Subtraction_5" data-name="Subtraction 5" d="M27.92,40.135H26.766L14.4,18.942,4.315,27.413,2.54,25.487l8.581-10.019L2.54,4.925,0,3.538,4.315,0,6.374,1.558H21.887L22.927,0l3.839,3.538-9.041,11.93L27.919,40.133ZM9.794,6.352h0l5.249,4.26,4.934-4.26H9.794Z" transform="translate(-7456.708 -14464.97)" fill="#873c95" stroke="#873c95" stroke-width="2"/>
+      <path id="Path_4691" data-name="Path 4691" d="M-8070.84-14337.236h33.648l2.544-1.741,4.384,10.465,5.468-12.276,6.431,17.155,7.512-31.087,3.743,40.947" transform="translate(609.033 -123.631)" fill="none" stroke="#ae68bc" stroke-width="4"/>
+      <g id="Ellipse_167" data-name="Ellipse 167" transform="translate(-7463 -14499)" fill="none" stroke="#ae68bc" stroke-width="4">
+        <circle cx="38" cy="38" r="38" stroke="none"/>
+        <circle cx="38" cy="38" r="36" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

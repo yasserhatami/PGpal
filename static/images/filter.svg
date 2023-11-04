@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="53" viewBox="0 0 69 53">
+  <defs>
+    <filter id="Rectangle_762" x="0" y="0" width="69" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#c8c2c9" flood-opacity="0.431"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2929" data-name="Group 2929" transform="translate(-296 -31)">
+    <g id="Group_2928" data-name="Group 2928">
+      <g id="Second_-_button" data-name="Second - button" transform="translate(308 39)">
+        <g id="Group_2927" data-name="Group 2927">
+          <g transform="matrix(1, 0, 0, 1, -12, -8)" filter="url(#Rectangle_762)">
+            <g id="Rectangle_762-2" data-name="Rectangle 762" transform="translate(12 8)" fill="#ecdfee" stroke="rgba(174,104,187,0.52)" stroke-width="1">
+              <rect width="45" height="29" rx="14.5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="44" height="28" rx="14" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="filter-text" transform="translate(321.3 46.5)">
+      <g id="Group_2926" data-name="Group 2926">
+        <path id="Path_4727" data-name="Path 4727" d="M16.047,2.16A1,1,0,0,0,15.294.5H2.7a1,1,0,0,0-.751,1.66L7.5,8.5v5.631a1,1,0,0,0,1.555.832l1-.667a1,1,0,0,0,.445-.832V8.5Z" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+      </g>
+    </g>
+  </g>
+</svg>

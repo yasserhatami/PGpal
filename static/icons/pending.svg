@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
+  <g id="shipment-clock" transform="translate(-11 -11)">
+    <path id="Path_4728" data-name="Path 4728" d="M16,21a5,5,0,1,1,5-5A5.006,5.006,0,0,1,16,21Zm0-9.231A4.231,4.231,0,1,0,20.231,16,4.235,4.235,0,0,0,16,11.769Z" transform="translate(0 0)" fill="#3c3951"/>
+    <path id="Path_4729" data-name="Path 4729" d="M17.5,18a.5.5,0,0,1-.5-.5v-3a.5.5,0,0,1,1,0V17h1.5a.5.5,0,0,1,0,1Z" transform="translate(-1.8 -1)" fill="#3c3951"/>
+  </g>
+</svg>

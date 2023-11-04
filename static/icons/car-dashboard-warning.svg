@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.5" height="21.847" viewBox="0 0 28.5 21.847">
+  <g id="car-dashboard-warning" transform="translate(0.75 1.061)">
+    <path id="Path_7493" data-name="Path 7493" d="M24.115,13.64a10.083,10.083,0,0,1-10.057,9.992A10.035,10.035,0,0,1,6.964,20.86,9.565,9.565,0,0,1,4,13.983a10.171,10.171,0,0,1,17.151-7.22,9.566,9.566,0,0,1,2.964,6.877Z" transform="translate(-0.558 -3.961)" fill="none" stroke="#3c3951" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_431" data-name="Line 431" y1="5.74" transform="translate(13.499 5.083)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_432" data-name="Line 432" transform="translate(13.501 14.173)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_7494" data-name="Path 7494" d="M12.287,15.794A.286.286,0,0,0,12,15.512" transform="translate(1.51 -1.324)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_7495" data-name="Path 7495" d="M12.005,16.05a.286.286,0,0,0,.281-.292" transform="translate(1.51 -1.268)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_433" data-name="Line 433" x2="0.006" transform="translate(13.5 14.787)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_7496" data-name="Path 7496" d="M11.751,15.766a.286.286,0,0,0,.286.282" transform="translate(1.453 -1.266)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_7497" data-name="Path 7497" d="M12.036,15.512a.286.286,0,0,0-.281.292" transform="translate(1.453 -1.324)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_434" data-name="Line 434" x1="0.005" transform="translate(13.495 14.173)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_435" data-name="Line 435" x1="0.001" transform="translate(13.5 14.173)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_7498" data-name="Path 7498" d="M5.017,23.684A13.953,13.953,0,0,1,1,13.847,13.964,13.964,0,0,1,4.965,3.985" transform="translate(-1.001 -3.961)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_7499" data-name="Path 7499" d="M19.526,3.964a13.958,13.958,0,0,1,3.991,9.869A13.952,13.952,0,0,1,19.5,23.69" transform="translate(3.483 -3.964)" fill="none" stroke="#ae68bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>
